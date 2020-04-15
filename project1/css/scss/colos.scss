@@ -1,0 +1,26 @@
+$bg-color: red;
+
+.aseem-bg-primary{
+  background-color: $bg-color;
+}
+
+.aseem-text-primary {
+  color: $bg-color;
+}
+
+@media screen and (min-width: 800px) {
+.aseem-bg-primary{
+  background-color: black;
+}
+
+}
+
+.height_class {
+    height: 90vh;
+  }
+@media screen and (max-width: 800px) {
+
+  .height_class {
+    height: 50vh;
+  }
+}

@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAEA,iBAAiB;EACf,gBAAgB,EAHP,GAAG;;AAMd,mBAAoB;EAClB,KAAK,EAPI,GAAG",
+"sources": ["colos.scss"],
+"names": [],
+"file": "output_colors.css"
+}

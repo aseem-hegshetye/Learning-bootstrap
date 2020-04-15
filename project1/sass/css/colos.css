@@ -1,0 +1,24 @@
+.aseem-bg-primary {
+  background-color: red;
+}
+
+.aseem-text-primary {
+  color: red;
+}
+
+@media screen and (min-width: 800px) {
+  .aseem-bg-primary {
+    background-color: black;
+  }
+}
+.height_class {
+  height: 90vh;
+}
+
+@media screen and (max-width: 800px) {
+  .height_class {
+    height: 50vh;
+  }
+}
+
+/*# sourceMappingURL=colos.css.map */

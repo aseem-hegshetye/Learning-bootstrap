@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAEA,uBAAuB;EACrB,gBAAgB,EAHP,OAAO;;AAMlB,mBAAoB;EAClB,KAAK,EAPI,OAAO",
+"sources": ["colos.scss"],
+"names": [],
+"file": "colos.css"
+}
